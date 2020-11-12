@@ -1,0 +1,31 @@
+StateFIPS,CountyFIPS,County,Party,Candidate,Method,Votes
+13,19,Berrien,Dem,Andre Oliver,Absentee by Mail Votes,264
+13,19,Berrien,Dem,Andre Oliver,Advanced Voting Votes,456
+13,19,Berrien,Dem,Andre Oliver,Election Day Votes,270
+13,19,Berrien,Dem,Andre Oliver,Provisional Votes,0
+13,19,Berrien,Dem,Andre Oliver,TOTAL VOTES,990
+13,19,Berrien,I) (Rep,Penny Houston,Absentee by Mail Votes,834
+13,19,Berrien,I) (Rep,Penny Houston,Advanced Voting Votes,3882
+13,19,Berrien,I) (Rep,Penny Houston,Election Day Votes,1878
+13,19,Berrien,I) (Rep,Penny Houston,Provisional Votes,9
+13,19,Berrien,I) (Rep,Penny Houston,TOTAL VOTES,6603
+13,75,Cook,Dem,Andre Oliver,Absentee by Mail Votes,459
+13,75,Cook,Dem,Andre Oliver,Advanced Voting Votes,895
+13,75,Cook,Dem,Andre Oliver,Election Day Votes,466
+13,75,Cook,Dem,Andre Oliver,Provisional Votes,0
+13,75,Cook,Dem,Andre Oliver,TOTAL VOTES,1820
+13,75,Cook,I) (Rep,Penny Houston,Absentee by Mail Votes,532
+13,75,Cook,I) (Rep,Penny Houston,Advanced Voting Votes,3369
+13,75,Cook,I) (Rep,Penny Houston,Election Day Votes,1185
+13,75,Cook,I) (Rep,Penny Houston,Provisional Votes,0
+13,75,Cook,I) (Rep,Penny Houston,TOTAL VOTES,5086
+13,277,Tift,Dem,Andre Oliver,Absentee by Mail Votes,569
+13,277,Tift,Dem,Andre Oliver,Advanced Voting Votes,1161
+13,277,Tift,Dem,Andre Oliver,Election Day Votes,433
+13,277,Tift,Dem,Andre Oliver,Provisional Votes,6
+13,277,Tift,Dem,Andre Oliver,TOTAL VOTES,2169
+13,277,Tift,I) (Rep,Penny Houston,Absentee by Mail Votes,513
+13,277,Tift,I) (Rep,Penny Houston,Advanced Voting Votes,2652
+13,277,Tift,I) (Rep,Penny Houston,Election Day Votes,764
+13,277,Tift,I) (Rep,Penny Houston,Provisional Votes,8
+13,277,Tift,I) (Rep,Penny Houston,TOTAL VOTES,3937

@@ -1,0 +1,21 @@
+StateFIPS,CountyFIPS,County,Party,Candidate,Method,Votes
+13,137,Habersham,Dem,Nick Mitchell,Absentee by Mail Votes,951
+13,137,Habersham,Dem,Nick Mitchell,Advanced Voting Votes,1219
+13,137,Habersham,Dem,Nick Mitchell,Election Day Votes,388
+13,137,Habersham,Dem,Nick Mitchell,Provisional Votes,1
+13,137,Habersham,Dem,Nick Mitchell,TOTAL VOTES,2559
+13,137,Habersham,Rep,Victor E. Anderson,Absentee by Mail Votes,2336
+13,137,Habersham,Rep,Victor E. Anderson,Advanced Voting Votes,8358
+13,137,Habersham,Rep,Victor E. Anderson,Election Day Votes,2117
+13,137,Habersham,Rep,Victor E. Anderson,Provisional Votes,13
+13,137,Habersham,Rep,Victor E. Anderson,TOTAL VOTES,12824
+13,311,White,Dem,Nick Mitchell,Absentee by Mail Votes,634
+13,311,White,Dem,Nick Mitchell,Advanced Voting Votes,686
+13,311,White,Dem,Nick Mitchell,Election Day Votes,237
+13,311,White,Dem,Nick Mitchell,Provisional Votes,0
+13,311,White,Dem,Nick Mitchell,TOTAL VOTES,1557
+13,311,White,Rep,Victor E. Anderson,Absentee by Mail Votes,1516
+13,311,White,Rep,Victor E. Anderson,Advanced Voting Votes,4774
+13,311,White,Rep,Victor E. Anderson,Election Day Votes,2279
+13,311,White,Rep,Victor E. Anderson,Provisional Votes,3
+13,311,White,Rep,Victor E. Anderson,TOTAL VOTES,8572

@@ -1,0 +1,26 @@
+StateFIPS,CountyFIPS,County,Party,Candidate,Method,Votes
+13,91,Dodge,Rep,Robert Pruitt,Absentee by Mail Votes,920
+13,91,Dodge,Rep,Robert Pruitt,Advanced Voting Votes,3169
+13,91,Dodge,Rep,Robert Pruitt,Election Day Votes,2519
+13,91,Dodge,Rep,Robert Pruitt,Provisional Votes,5
+13,91,Dodge,Rep,Robert Pruitt,TOTAL VOTES,6613
+13,161,Jeff Davis,Rep,Robert Pruitt,Absentee by Mail Votes,233
+13,161,Jeff Davis,Rep,Robert Pruitt,Advanced Voting Votes,945
+13,161,Jeff Davis,Rep,Robert Pruitt,Election Day Votes,458
+13,161,Jeff Davis,Rep,Robert Pruitt,Provisional Votes,0
+13,161,Jeff Davis,Rep,Robert Pruitt,TOTAL VOTES,1636
+13,175,Laurens,Rep,Robert Pruitt,Absentee by Mail Votes,108
+13,175,Laurens,Rep,Robert Pruitt,Advanced Voting Votes,185
+13,175,Laurens,Rep,Robert Pruitt,Election Day Votes,485
+13,175,Laurens,Rep,Robert Pruitt,Provisional Votes,1
+13,175,Laurens,Rep,Robert Pruitt,TOTAL VOTES,779
+13,271,Telfair,Rep,Robert Pruitt,Absentee by Mail Votes,455
+13,271,Telfair,Rep,Robert Pruitt,Advanced Voting Votes,1644
+13,271,Telfair,Rep,Robert Pruitt,Election Day Votes,1041
+13,271,Telfair,Rep,Robert Pruitt,Provisional Votes,4
+13,271,Telfair,Rep,Robert Pruitt,TOTAL VOTES,3144
+13,309,Wheeler,Rep,Robert Pruitt,Absentee by Mail Votes,235
+13,309,Wheeler,Rep,Robert Pruitt,Advanced Voting Votes,1036
+13,309,Wheeler,Rep,Robert Pruitt,Election Day Votes,528
+13,309,Wheeler,Rep,Robert Pruitt,Provisional Votes,0
+13,309,Wheeler,Rep,Robert Pruitt,TOTAL VOTES,1799

@@ -1,0 +1,31 @@
+StateFIPS,CountyFIPS,County,Party,Candidate,Method,Votes
+13,63,Clayton,Rep,David Callahan,Absentee by Mail Votes,169
+13,63,Clayton,Rep,David Callahan,Advanced Voting Votes,370
+13,63,Clayton,Rep,David Callahan,Election Day Votes,129
+13,63,Clayton,Rep,David Callahan,Provisional Votes,1
+13,63,Clayton,Rep,David Callahan,TOTAL VOTES,669
+13,63,Clayton,I) (Dem,Debra Bazemore,Absentee by Mail Votes,1031
+13,63,Clayton,I) (Dem,Debra Bazemore,Advanced Voting Votes,2156
+13,63,Clayton,I) (Dem,Debra Bazemore,Election Day Votes,502
+13,63,Clayton,I) (Dem,Debra Bazemore,Provisional Votes,4
+13,63,Clayton,I) (Dem,Debra Bazemore,TOTAL VOTES,3693
+13,113,Fayette,Rep,David Callahan,Absentee by Mail Votes,1333
+13,113,Fayette,Rep,David Callahan,Advanced Voting Votes,2594
+13,113,Fayette,Rep,David Callahan,Election Day Votes,868
+13,113,Fayette,Rep,David Callahan,Provisional Votes,0
+13,113,Fayette,Rep,David Callahan,TOTAL VOTES,4795
+13,113,Fayette,I) (Dem,Debra Bazemore,Absentee by Mail Votes,3318
+13,113,Fayette,I) (Dem,Debra Bazemore,Advanced Voting Votes,4938
+13,113,Fayette,I) (Dem,Debra Bazemore,Election Day Votes,1044
+13,113,Fayette,I) (Dem,Debra Bazemore,Provisional Votes,0
+13,113,Fayette,I) (Dem,Debra Bazemore,TOTAL VOTES,9300
+13,121,Fulton,Rep,David Callahan,Absentee by Mail Votes,80
+13,121,Fulton,Rep,David Callahan,Advanced Voting Votes,195
+13,121,Fulton,Rep,David Callahan,Election Day Votes,127
+13,121,Fulton,Rep,David Callahan,Provisional Votes,3
+13,121,Fulton,Rep,David Callahan,TOTAL VOTES,405
+13,121,Fulton,I) (Dem,Debra Bazemore,Absentee by Mail Votes,2646
+13,121,Fulton,I) (Dem,Debra Bazemore,Advanced Voting Votes,5383
+13,121,Fulton,I) (Dem,Debra Bazemore,Election Day Votes,1536
+13,121,Fulton,I) (Dem,Debra Bazemore,Provisional Votes,46
+13,121,Fulton,I) (Dem,Debra Bazemore,TOTAL VOTES,9611

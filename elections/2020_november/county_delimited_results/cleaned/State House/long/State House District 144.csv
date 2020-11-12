@@ -1,0 +1,71 @@
+StateFIPS,CountyFIPS,County,Party,Candidate,Method,Votes
+13,21,Bibb,I) (Rep,Danny Mathis,Absentee by Mail Votes,257
+13,21,Bibb,I) (Rep,Danny Mathis,Advanced Voting Votes,657
+13,21,Bibb,I) (Rep,Danny Mathis,Election Day Votes,687
+13,21,Bibb,I) (Rep,Danny Mathis,Provisional Votes,2
+13,21,Bibb,I) (Rep,Danny Mathis,TOTAL VOTES,1603
+13,21,Bibb,Dem,Mary Whipple-Lue,Absentee by Mail Votes,219
+13,21,Bibb,Dem,Mary Whipple-Lue,Advanced Voting Votes,413
+13,21,Bibb,Dem,Mary Whipple-Lue,Election Day Votes,170
+13,21,Bibb,Dem,Mary Whipple-Lue,Provisional Votes,3
+13,21,Bibb,Dem,Mary Whipple-Lue,TOTAL VOTES,805
+13,23,Bleckley,I) (Rep,Danny Mathis,Absentee by Mail Votes,715
+13,23,Bleckley,I) (Rep,Danny Mathis,Advanced Voting Votes,2973
+13,23,Bleckley,I) (Rep,Danny Mathis,Election Day Votes,1038
+13,23,Bleckley,I) (Rep,Danny Mathis,Provisional Votes,2
+13,23,Bleckley,I) (Rep,Danny Mathis,TOTAL VOTES,4728
+13,23,Bleckley,Dem,Mary Whipple-Lue,Absentee by Mail Votes,314
+13,23,Bleckley,Dem,Mary Whipple-Lue,Advanced Voting Votes,401
+13,23,Bleckley,Dem,Mary Whipple-Lue,Election Day Votes,196
+13,23,Bleckley,Dem,Mary Whipple-Lue,Provisional Votes,0
+13,23,Bleckley,Dem,Mary Whipple-Lue,TOTAL VOTES,911
+13,153,Houston,I) (Rep,Danny Mathis,Absentee by Mail Votes,648
+13,153,Houston,I) (Rep,Danny Mathis,Advanced Voting Votes,1624
+13,153,Houston,I) (Rep,Danny Mathis,Election Day Votes,916
+13,153,Houston,I) (Rep,Danny Mathis,Provisional Votes,0
+13,153,Houston,I) (Rep,Danny Mathis,TOTAL VOTES,3188
+13,153,Houston,Dem,Mary Whipple-Lue,Absentee by Mail Votes,550
+13,153,Houston,Dem,Mary Whipple-Lue,Advanced Voting Votes,672
+13,153,Houston,Dem,Mary Whipple-Lue,Election Day Votes,218
+13,153,Houston,Dem,Mary Whipple-Lue,Provisional Votes,0
+13,153,Houston,Dem,Mary Whipple-Lue,TOTAL VOTES,1440
+13,169,Jones,I) (Rep,Danny Mathis,Absentee by Mail Votes,344
+13,169,Jones,I) (Rep,Danny Mathis,Advanced Voting Votes,1260
+13,169,Jones,I) (Rep,Danny Mathis,Election Day Votes,918
+13,169,Jones,I) (Rep,Danny Mathis,Provisional Votes,2
+13,169,Jones,I) (Rep,Danny Mathis,TOTAL VOTES,2524
+13,169,Jones,Dem,Mary Whipple-Lue,Absentee by Mail Votes,250
+13,169,Jones,Dem,Mary Whipple-Lue,Advanced Voting Votes,412
+13,169,Jones,Dem,Mary Whipple-Lue,Election Day Votes,196
+13,169,Jones,Dem,Mary Whipple-Lue,Provisional Votes,1
+13,169,Jones,Dem,Mary Whipple-Lue,TOTAL VOTES,859
+13,175,Laurens,I) (Rep,Danny Mathis,Absentee by Mail Votes,206
+13,175,Laurens,I) (Rep,Danny Mathis,Advanced Voting Votes,664
+13,175,Laurens,I) (Rep,Danny Mathis,Election Day Votes,488
+13,175,Laurens,I) (Rep,Danny Mathis,Provisional Votes,0
+13,175,Laurens,I) (Rep,Danny Mathis,TOTAL VOTES,1358
+13,175,Laurens,Dem,Mary Whipple-Lue,Absentee by Mail Votes,192
+13,175,Laurens,Dem,Mary Whipple-Lue,Advanced Voting Votes,227
+13,175,Laurens,Dem,Mary Whipple-Lue,Election Day Votes,143
+13,175,Laurens,Dem,Mary Whipple-Lue,Provisional Votes,0
+13,175,Laurens,Dem,Mary Whipple-Lue,TOTAL VOTES,562
+13,289,Twiggs,I) (Rep,Danny Mathis,Absentee by Mail Votes,348
+13,289,Twiggs,I) (Rep,Danny Mathis,Advanced Voting Votes,1225
+13,289,Twiggs,I) (Rep,Danny Mathis,Election Day Votes,833
+13,289,Twiggs,I) (Rep,Danny Mathis,Provisional Votes,0
+13,289,Twiggs,I) (Rep,Danny Mathis,TOTAL VOTES,2406
+13,289,Twiggs,Dem,Mary Whipple-Lue,Absentee by Mail Votes,678
+13,289,Twiggs,Dem,Mary Whipple-Lue,Advanced Voting Votes,816
+13,289,Twiggs,Dem,Mary Whipple-Lue,Election Day Votes,402
+13,289,Twiggs,Dem,Mary Whipple-Lue,Provisional Votes,4
+13,289,Twiggs,Dem,Mary Whipple-Lue,TOTAL VOTES,1900
+13,319,Wilkinson,I) (Rep,Danny Mathis,Absentee by Mail Votes,277
+13,319,Wilkinson,I) (Rep,Danny Mathis,Advanced Voting Votes,1155
+13,319,Wilkinson,I) (Rep,Danny Mathis,Election Day Votes,1317
+13,319,Wilkinson,I) (Rep,Danny Mathis,Provisional Votes,4
+13,319,Wilkinson,I) (Rep,Danny Mathis,TOTAL VOTES,2753
+13,319,Wilkinson,Dem,Mary Whipple-Lue,Absentee by Mail Votes,535
+13,319,Wilkinson,Dem,Mary Whipple-Lue,Advanced Voting Votes,830
+13,319,Wilkinson,Dem,Mary Whipple-Lue,Election Day Votes,462
+13,319,Wilkinson,Dem,Mary Whipple-Lue,Provisional Votes,2
+13,319,Wilkinson,Dem,Mary Whipple-Lue,TOTAL VOTES,1829

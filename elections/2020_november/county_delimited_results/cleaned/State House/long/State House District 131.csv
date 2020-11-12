@@ -1,0 +1,31 @@
+StateFIPS,CountyFIPS,County,Party,Candidate,Method,Votes
+13,171,Lamar,Rep,Beth Camp,Absentee by Mail Votes,346
+13,171,Lamar,Rep,Beth Camp,Advanced Voting Votes,1462
+13,171,Lamar,Rep,Beth Camp,Election Day Votes,630
+13,171,Lamar,Rep,Beth Camp,Provisional Votes,5
+13,171,Lamar,Rep,Beth Camp,TOTAL VOTES,2443
+13,171,Lamar,Dem,Chris Benton,Absentee by Mail Votes,551
+13,171,Lamar,Dem,Chris Benton,Advanced Voting Votes,691
+13,171,Lamar,Dem,Chris Benton,Election Day Votes,258
+13,171,Lamar,Dem,Chris Benton,Provisional Votes,1
+13,171,Lamar,Dem,Chris Benton,TOTAL VOTES,1501
+13,231,Pike,Rep,Beth Camp,Absentee by Mail Votes,958
+13,231,Pike,Rep,Beth Camp,Advanced Voting Votes,5895
+13,231,Pike,Rep,Beth Camp,Election Day Votes,2353
+13,231,Pike,Rep,Beth Camp,Provisional Votes,0
+13,231,Pike,Rep,Beth Camp,TOTAL VOTES,9206
+13,231,Pike,Dem,Chris Benton,Absentee by Mail Votes,478
+13,231,Pike,Dem,Chris Benton,Advanced Voting Votes,617
+13,231,Pike,Dem,Chris Benton,Election Day Votes,256
+13,231,Pike,Dem,Chris Benton,Provisional Votes,0
+13,231,Pike,Dem,Chris Benton,TOTAL VOTES,1351
+13,293,Upson,Rep,Beth Camp,Absentee by Mail Votes,1219
+13,293,Upson,Rep,Beth Camp,Advanced Voting Votes,6018
+13,293,Upson,Rep,Beth Camp,Election Day Votes,1356
+13,293,Upson,Rep,Beth Camp,Provisional Votes,4
+13,293,Upson,Rep,Beth Camp,TOTAL VOTES,8597
+13,293,Upson,Dem,Chris Benton,Absentee by Mail Votes,1462
+13,293,Upson,Dem,Chris Benton,Advanced Voting Votes,1870
+13,293,Upson,Dem,Chris Benton,Election Day Votes,632
+13,293,Upson,Dem,Chris Benton,Provisional Votes,0
+13,293,Upson,Dem,Chris Benton,TOTAL VOTES,3964

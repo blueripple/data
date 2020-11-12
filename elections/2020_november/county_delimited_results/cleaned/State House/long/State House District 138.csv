@@ -1,0 +1,41 @@
+StateFIPS,CountyFIPS,County,Party,Candidate,Method,Votes
+13,53,Chattahoochee,Dem,Marc Arnett,Absentee by Mail Votes,164
+13,53,Chattahoochee,Dem,Marc Arnett,Advanced Voting Votes,327
+13,53,Chattahoochee,Dem,Marc Arnett,Election Day Votes,154
+13,53,Chattahoochee,Dem,Marc Arnett,Provisional Votes,1
+13,53,Chattahoochee,Dem,Marc Arnett,TOTAL VOTES,646
+13,53,Chattahoochee,I) (Rep,Mike Cheokas,Absentee by Mail Votes,124
+13,53,Chattahoochee,I) (Rep,Mike Cheokas,Advanced Voting Votes,452
+13,53,Chattahoochee,I) (Rep,Mike Cheokas,Election Day Votes,280
+13,53,Chattahoochee,I) (Rep,Mike Cheokas,Provisional Votes,2
+13,53,Chattahoochee,I) (Rep,Mike Cheokas,TOTAL VOTES,858
+13,197,Marion,Dem,Marc Arnett,Absentee by Mail Votes,452
+13,197,Marion,Dem,Marc Arnett,Advanced Voting Votes,578
+13,197,Marion,Dem,Marc Arnett,Election Day Votes,229
+13,197,Marion,Dem,Marc Arnett,Provisional Votes,0
+13,197,Marion,Dem,Marc Arnett,TOTAL VOTES,1259
+13,197,Marion,I) (Rep,Mike Cheokas,Absentee by Mail Votes,315
+13,197,Marion,I) (Rep,Mike Cheokas,Advanced Voting Votes,1243
+13,197,Marion,I) (Rep,Mike Cheokas,Election Day Votes,746
+13,197,Marion,I) (Rep,Mike Cheokas,Provisional Votes,0
+13,197,Marion,I) (Rep,Mike Cheokas,TOTAL VOTES,2304
+13,249,Schley,Dem,Marc Arnett,Absentee by Mail Votes,142
+13,249,Schley,Dem,Marc Arnett,Advanced Voting Votes,251
+13,249,Schley,Dem,Marc Arnett,Election Day Votes,75
+13,249,Schley,Dem,Marc Arnett,Provisional Votes,0
+13,249,Schley,Dem,Marc Arnett,TOTAL VOTES,468
+13,249,Schley,I) (Rep,Mike Cheokas,Absentee by Mail Votes,173
+13,249,Schley,I) (Rep,Mike Cheokas,Advanced Voting Votes,1317
+13,249,Schley,I) (Rep,Mike Cheokas,Election Day Votes,290
+13,249,Schley,I) (Rep,Mike Cheokas,Provisional Votes,1
+13,249,Schley,I) (Rep,Mike Cheokas,TOTAL VOTES,1781
+13,261,Sumter,Dem,Marc Arnett,Absentee by Mail Votes,1811
+13,261,Sumter,Dem,Marc Arnett,Advanced Voting Votes,2943
+13,261,Sumter,Dem,Marc Arnett,Election Day Votes,1046
+13,261,Sumter,Dem,Marc Arnett,Provisional Votes,4
+13,261,Sumter,Dem,Marc Arnett,TOTAL VOTES,5804
+13,261,Sumter,I) (Rep,Mike Cheokas,Absentee by Mail Votes,713
+13,261,Sumter,I) (Rep,Mike Cheokas,Advanced Voting Votes,2814
+13,261,Sumter,I) (Rep,Mike Cheokas,Election Day Votes,1060
+13,261,Sumter,I) (Rep,Mike Cheokas,Provisional Votes,12
+13,261,Sumter,I) (Rep,Mike Cheokas,TOTAL VOTES,4599

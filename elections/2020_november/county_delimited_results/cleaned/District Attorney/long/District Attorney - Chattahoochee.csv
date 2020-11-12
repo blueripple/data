@@ -1,0 +1,31 @@
+StateFIPS,CountyFIPS,County,Party,Candidate,Method,Votes
+13,53,Chattahoochee,Dem,Mark P. Jones,Absentee by Mail Votes,219
+13,53,Chattahoochee,Dem,Mark P. Jones,Advanced Voting Votes,567
+13,53,Chattahoochee,Dem,Mark P. Jones,Election Day Votes,305
+13,53,Chattahoochee,Dem,Mark P. Jones,Provisional Votes,3
+13,53,Chattahoochee,Dem,Mark P. Jones,TOTAL VOTES,1094
+13,145,Harris,Dem,Mark P. Jones,Absentee by Mail Votes,2675
+13,145,Harris,Dem,Mark P. Jones,Advanced Voting Votes,5056
+13,145,Harris,Dem,Mark P. Jones,Election Day Votes,4016
+13,145,Harris,Dem,Mark P. Jones,Provisional Votes,11
+13,145,Harris,Dem,Mark P. Jones,TOTAL VOTES,11758
+13,197,Marion,Dem,Mark P. Jones,Absentee by Mail Votes,589
+13,197,Marion,Dem,Mark P. Jones,Advanced Voting Votes,1227
+13,197,Marion,Dem,Mark P. Jones,Election Day Votes,633
+13,197,Marion,Dem,Mark P. Jones,Provisional Votes,0
+13,197,Marion,Dem,Mark P. Jones,TOTAL VOTES,2449
+13,215,Muscogee,Dem,Mark P. Jones,Absentee by Mail Votes,19385
+13,215,Muscogee,Dem,Mark P. Jones,Advanced Voting Votes,33198
+13,215,Muscogee,Dem,Mark P. Jones,Election Day Votes,10050
+13,215,Muscogee,Dem,Mark P. Jones,Provisional Votes,31
+13,215,Muscogee,Dem,Mark P. Jones,TOTAL VOTES,62664
+13,263,Talbot,Dem,Mark P. Jones,Absentee by Mail Votes,954
+13,263,Talbot,Dem,Mark P. Jones,Advanced Voting Votes,919
+13,263,Talbot,Dem,Mark P. Jones,Election Day Votes,779
+13,263,Talbot,Dem,Mark P. Jones,Provisional Votes,1
+13,263,Talbot,Dem,Mark P. Jones,TOTAL VOTES,2653
+13,269,Taylor,Dem,Mark P. Jones,Absentee by Mail Votes,588
+13,269,Taylor,Dem,Mark P. Jones,Advanced Voting Votes,1576
+13,269,Taylor,Dem,Mark P. Jones,Election Day Votes,466
+13,269,Taylor,Dem,Mark P. Jones,Provisional Votes,7
+13,269,Taylor,Dem,Mark P. Jones,TOTAL VOTES,2637

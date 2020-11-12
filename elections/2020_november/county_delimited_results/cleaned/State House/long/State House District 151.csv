@@ -1,0 +1,91 @@
+StateFIPS,CountyFIPS,County,Party,Candidate,Method,Votes
+13,37,Calhoun,I) (Rep,Gerald E. Greene,Absentee by Mail Votes,195
+13,37,Calhoun,I) (Rep,Gerald E. Greene,Advanced Voting Votes,518
+13,37,Calhoun,I) (Rep,Gerald E. Greene,Election Day Votes,296
+13,37,Calhoun,I) (Rep,Gerald E. Greene,Provisional Votes,0
+13,37,Calhoun,I) (Rep,Gerald E. Greene,TOTAL VOTES,1009
+13,37,Calhoun,Dem,Joyce Barlow,Absentee by Mail Votes,386
+13,37,Calhoun,Dem,Joyce Barlow,Advanced Voting Votes,434
+13,37,Calhoun,Dem,Joyce Barlow,Election Day Votes,335
+13,37,Calhoun,Dem,Joyce Barlow,Provisional Votes,0
+13,37,Calhoun,Dem,Joyce Barlow,TOTAL VOTES,1155
+13,61,Clay,I) (Rep,Gerald E. Greene,Absentee by Mail Votes,177
+13,61,Clay,I) (Rep,Gerald E. Greene,Advanced Voting Votes,452
+13,61,Clay,I) (Rep,Gerald E. Greene,Election Day Votes,137
+13,61,Clay,I) (Rep,Gerald E. Greene,Provisional Votes,0
+13,61,Clay,I) (Rep,Gerald E. Greene,TOTAL VOTES,766
+13,61,Clay,Dem,Joyce Barlow,Absentee by Mail Votes,222
+13,61,Clay,Dem,Joyce Barlow,Advanced Voting Votes,272
+13,61,Clay,Dem,Joyce Barlow,Election Day Votes,158
+13,61,Clay,Dem,Joyce Barlow,Provisional Votes,0
+13,61,Clay,Dem,Joyce Barlow,TOTAL VOTES,652
+13,95,Dougherty,I) (Rep,Gerald E. Greene,Absentee by Mail Votes,271
+13,95,Dougherty,I) (Rep,Gerald E. Greene,Advanced Voting Votes,483
+13,95,Dougherty,I) (Rep,Gerald E. Greene,Election Day Votes,525
+13,95,Dougherty,I) (Rep,Gerald E. Greene,Provisional Votes,0
+13,95,Dougherty,I) (Rep,Gerald E. Greene,TOTAL VOTES,1279
+13,95,Dougherty,Dem,Joyce Barlow,Absentee by Mail Votes,484
+13,95,Dougherty,Dem,Joyce Barlow,Advanced Voting Votes,664
+13,95,Dougherty,Dem,Joyce Barlow,Election Day Votes,285
+13,95,Dougherty,Dem,Joyce Barlow,Provisional Votes,0
+13,95,Dougherty,Dem,Joyce Barlow,TOTAL VOTES,1433
+13,99,Early,I) (Rep,Gerald E. Greene,Absentee by Mail Votes,546
+13,99,Early,I) (Rep,Gerald E. Greene,Advanced Voting Votes,1602
+13,99,Early,I) (Rep,Gerald E. Greene,Election Day Votes,810
+13,99,Early,I) (Rep,Gerald E. Greene,Provisional Votes,0
+13,99,Early,I) (Rep,Gerald E. Greene,TOTAL VOTES,2958
+13,99,Early,Dem,Joyce Barlow,Absentee by Mail Votes,549
+13,99,Early,Dem,Joyce Barlow,Advanced Voting Votes,979
+13,99,Early,Dem,Joyce Barlow,Election Day Votes,612
+13,99,Early,Dem,Joyce Barlow,Provisional Votes,0
+13,99,Early,Dem,Joyce Barlow,TOTAL VOTES,2140
+13,239,Quitman,I) (Rep,Gerald E. Greene,Absentee by Mail Votes,108
+13,239,Quitman,I) (Rep,Gerald E. Greene,Advanced Voting Votes,353
+13,239,Quitman,I) (Rep,Gerald E. Greene,Election Day Votes,168
+13,239,Quitman,I) (Rep,Gerald E. Greene,Provisional Votes,0
+13,239,Quitman,I) (Rep,Gerald E. Greene,TOTAL VOTES,629
+13,239,Quitman,Dem,Joyce Barlow,Absentee by Mail Votes,121
+13,239,Quitman,Dem,Joyce Barlow,Advanced Voting Votes,178
+13,239,Quitman,Dem,Joyce Barlow,Election Day Votes,153
+13,239,Quitman,Dem,Joyce Barlow,Provisional Votes,1
+13,239,Quitman,Dem,Joyce Barlow,TOTAL VOTES,453
+13,243,Randolph,I) (Rep,Gerald E. Greene,Absentee by Mail Votes,274
+13,243,Randolph,I) (Rep,Gerald E. Greene,Advanced Voting Votes,981
+13,243,Randolph,I) (Rep,Gerald E. Greene,Election Day Votes,352
+13,243,Randolph,I) (Rep,Gerald E. Greene,Provisional Votes,0
+13,243,Randolph,I) (Rep,Gerald E. Greene,TOTAL VOTES,1607
+13,243,Randolph,Dem,Joyce Barlow,Absentee by Mail Votes,390
+13,243,Randolph,Dem,Joyce Barlow,Advanced Voting Votes,670
+13,243,Randolph,Dem,Joyce Barlow,Election Day Votes,374
+13,243,Randolph,Dem,Joyce Barlow,Provisional Votes,3
+13,243,Randolph,Dem,Joyce Barlow,TOTAL VOTES,1437
+13,259,Stewart,I) (Rep,Gerald E. Greene,Absentee by Mail Votes,136
+13,259,Stewart,I) (Rep,Gerald E. Greene,Advanced Voting Votes,482
+13,259,Stewart,I) (Rep,Gerald E. Greene,Election Day Votes,235
+13,259,Stewart,I) (Rep,Gerald E. Greene,Provisional Votes,5
+13,259,Stewart,I) (Rep,Gerald E. Greene,TOTAL VOTES,858
+13,259,Stewart,Dem,Joyce Barlow,Absentee by Mail Votes,347
+13,259,Stewart,Dem,Joyce Barlow,Advanced Voting Votes,458
+13,259,Stewart,Dem,Joyce Barlow,Election Day Votes,271
+13,259,Stewart,Dem,Joyce Barlow,Provisional Votes,7
+13,259,Stewart,Dem,Joyce Barlow,TOTAL VOTES,1083
+13,273,Terrell,I) (Rep,Gerald E. Greene,Absentee by Mail Votes,328
+13,273,Terrell,I) (Rep,Gerald E. Greene,Advanced Voting Votes,1134
+13,273,Terrell,I) (Rep,Gerald E. Greene,Election Day Votes,696
+13,273,Terrell,I) (Rep,Gerald E. Greene,Provisional Votes,0
+13,273,Terrell,I) (Rep,Gerald E. Greene,TOTAL VOTES,2158
+13,273,Terrell,Dem,Joyce Barlow,Absentee by Mail Votes,787
+13,273,Terrell,Dem,Joyce Barlow,Advanced Voting Votes,892
+13,273,Terrell,Dem,Joyce Barlow,Election Day Votes,537
+13,273,Terrell,Dem,Joyce Barlow,Provisional Votes,0
+13,273,Terrell,Dem,Joyce Barlow,TOTAL VOTES,2216
+13,307,Webster,I) (Rep,Gerald E. Greene,Absentee by Mail Votes,123
+13,307,Webster,I) (Rep,Gerald E. Greene,Advanced Voting Votes,482
+13,307,Webster,I) (Rep,Gerald E. Greene,Election Day Votes,139
+13,307,Webster,I) (Rep,Gerald E. Greene,Provisional Votes,0
+13,307,Webster,I) (Rep,Gerald E. Greene,TOTAL VOTES,744
+13,307,Webster,Dem,Joyce Barlow,Absentee by Mail Votes,220
+13,307,Webster,Dem,Joyce Barlow,Advanced Voting Votes,260
+13,307,Webster,Dem,Joyce Barlow,Election Day Votes,136
+13,307,Webster,Dem,Joyce Barlow,Provisional Votes,0
+13,307,Webster,Dem,Joyce Barlow,TOTAL VOTES,616

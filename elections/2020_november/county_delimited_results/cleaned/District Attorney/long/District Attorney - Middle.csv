@@ -1,0 +1,26 @@
+StateFIPS,CountyFIPS,County,Party,Candidate,Method,Votes
+13,43,Candler,Rep,Tripp Fitzner,Absentee by Mail Votes,546
+13,43,Candler,Rep,Tripp Fitzner,Advanced Voting Votes,1312
+13,43,Candler,Rep,Tripp Fitzner,Election Day Votes,1844
+13,43,Candler,Rep,Tripp Fitzner,Provisional Votes,0
+13,43,Candler,Rep,Tripp Fitzner,TOTAL VOTES,3702
+13,107,Emanuel,Rep,Tripp Fitzner,Absentee by Mail Votes,1193
+13,107,Emanuel,Rep,Tripp Fitzner,Advanced Voting Votes,3538
+13,107,Emanuel,Rep,Tripp Fitzner,Election Day Votes,2855
+13,107,Emanuel,Rep,Tripp Fitzner,Provisional Votes,1
+13,107,Emanuel,Rep,Tripp Fitzner,TOTAL VOTES,7587
+13,163,Jefferson,Rep,Tripp Fitzner,Absentee by Mail Votes,749
+13,163,Jefferson,Rep,Tripp Fitzner,Advanced Voting Votes,2427
+13,163,Jefferson,Rep,Tripp Fitzner,Election Day Votes,1465
+13,163,Jefferson,Rep,Tripp Fitzner,Provisional Votes,8
+13,163,Jefferson,Rep,Tripp Fitzner,TOTAL VOTES,4649
+13,279,Toombs,Rep,Tripp Fitzner,Absentee by Mail Votes,1588
+13,279,Toombs,Rep,Tripp Fitzner,Advanced Voting Votes,5298
+13,279,Toombs,Rep,Tripp Fitzner,Election Day Votes,2091
+13,279,Toombs,Rep,Tripp Fitzner,Provisional Votes,6
+13,279,Toombs,Rep,Tripp Fitzner,TOTAL VOTES,8983
+13,303,Washington,Rep,Tripp Fitzner,Absentee by Mail Votes,1318
+13,303,Washington,Rep,Tripp Fitzner,Advanced Voting Votes,3016
+13,303,Washington,Rep,Tripp Fitzner,Election Day Votes,1855
+13,303,Washington,Rep,Tripp Fitzner,Provisional Votes,5
+13,303,Washington,Rep,Tripp Fitzner,TOTAL VOTES,6194

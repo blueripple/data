@@ -1,0 +1,31 @@
+StateFIPS,CountyFIPS,County,Party,Candidate,Method,Votes
+13,151,Henry,I) (Rep,David Knight,Absentee by Mail Votes,252
+13,151,Henry,I) (Rep,David Knight,Advanced Voting Votes,1068
+13,151,Henry,I) (Rep,David Knight,Election Day Votes,218
+13,151,Henry,I) (Rep,David Knight,Provisional Votes,1
+13,151,Henry,I) (Rep,David Knight,TOTAL VOTES,1539
+13,151,Henry,Dem,Sheila Henley,Absentee by Mail Votes,891
+13,151,Henry,Dem,Sheila Henley,Advanced Voting Votes,1995
+13,151,Henry,Dem,Sheila Henley,Election Day Votes,355
+13,151,Henry,Dem,Sheila Henley,Provisional Votes,0
+13,151,Henry,Dem,Sheila Henley,TOTAL VOTES,3241
+13,171,Lamar,I) (Rep,David Knight,Absentee by Mail Votes,480
+13,171,Lamar,I) (Rep,David Knight,Advanced Voting Votes,2328
+13,171,Lamar,I) (Rep,David Knight,Election Day Votes,1120
+13,171,Lamar,I) (Rep,David Knight,Provisional Votes,3
+13,171,Lamar,I) (Rep,David Knight,TOTAL VOTES,3931
+13,171,Lamar,Dem,Sheila Henley,Absentee by Mail Votes,346
+13,171,Lamar,Dem,Sheila Henley,Advanced Voting Votes,456
+13,171,Lamar,Dem,Sheila Henley,Election Day Votes,210
+13,171,Lamar,Dem,Sheila Henley,Provisional Votes,1
+13,171,Lamar,Dem,Sheila Henley,TOTAL VOTES,1013
+13,255,Spalding,I) (Rep,David Knight,Absentee by Mail Votes,2193
+13,255,Spalding,I) (Rep,David Knight,Advanced Voting Votes,5246
+13,255,Spalding,I) (Rep,David Knight,Election Day Votes,2725
+13,255,Spalding,I) (Rep,David Knight,Provisional Votes,389
+13,255,Spalding,I) (Rep,David Knight,TOTAL VOTES,10553
+13,255,Spalding,Dem,Sheila Henley,Absentee by Mail Votes,2602
+13,255,Spalding,Dem,Sheila Henley,Advanced Voting Votes,2731
+13,255,Spalding,Dem,Sheila Henley,Election Day Votes,1563
+13,255,Spalding,Dem,Sheila Henley,Provisional Votes,248
+13,255,Spalding,Dem,Sheila Henley,TOTAL VOTES,7144

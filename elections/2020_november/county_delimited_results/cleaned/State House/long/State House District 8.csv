@@ -1,0 +1,41 @@
+StateFIPS,CountyFIPS,County,Party,Candidate,Method,Votes
+13,241,Rabun,Dem,Dave Cooper,Absentee by Mail Votes,819
+13,241,Rabun,Dem,Dave Cooper,Advanced Voting Votes,841
+13,241,Rabun,Dem,Dave Cooper,Election Day Votes,220
+13,241,Rabun,Dem,Dave Cooper,Provisional Votes,0
+13,241,Rabun,Dem,Dave Cooper,TOTAL VOTES,1880
+13,241,Rabun,Rep,Stan Gunter,Absentee by Mail Votes,1694
+13,241,Rabun,Rep,Stan Gunter,Advanced Voting Votes,4566
+13,241,Rabun,Rep,Stan Gunter,Election Day Votes,1152
+13,241,Rabun,Rep,Stan Gunter,Provisional Votes,0
+13,241,Rabun,Rep,Stan Gunter,TOTAL VOTES,7412
+13,281,Towns,Dem,Dave Cooper,Absentee by Mail Votes,627
+13,281,Towns,Dem,Dave Cooper,Advanced Voting Votes,670
+13,281,Towns,Dem,Dave Cooper,Election Day Votes,136
+13,281,Towns,Dem,Dave Cooper,Provisional Votes,0
+13,281,Towns,Dem,Dave Cooper,TOTAL VOTES,1433
+13,281,Towns,Rep,Stan Gunter,Absentee by Mail Votes,1261
+13,281,Towns,Rep,Stan Gunter,Advanced Voting Votes,4117
+13,281,Towns,Rep,Stan Gunter,Election Day Votes,953
+13,281,Towns,Rep,Stan Gunter,Provisional Votes,7
+13,281,Towns,Rep,Stan Gunter,TOTAL VOTES,6338
+13,291,Union,Dem,Dave Cooper,Absentee by Mail Votes,1157
+13,291,Union,Dem,Dave Cooper,Advanced Voting Votes,1076
+13,291,Union,Dem,Dave Cooper,Election Day Votes,305
+13,291,Union,Dem,Dave Cooper,Provisional Votes,0
+13,291,Union,Dem,Dave Cooper,TOTAL VOTES,2538
+13,291,Union,Rep,Stan Gunter,Absentee by Mail Votes,2292
+13,291,Union,Rep,Stan Gunter,Advanced Voting Votes,7032
+13,291,Union,Rep,Stan Gunter,Election Day Votes,3322
+13,291,Union,Rep,Stan Gunter,Provisional Votes,10
+13,291,Union,Rep,Stan Gunter,TOTAL VOTES,12656
+13,311,White,Dem,Dave Cooper,Absentee by Mail Votes,204
+13,311,White,Dem,Dave Cooper,Advanced Voting Votes,240
+13,311,White,Dem,Dave Cooper,Election Day Votes,112
+13,311,White,Dem,Dave Cooper,Provisional Votes,0
+13,311,White,Dem,Dave Cooper,TOTAL VOTES,556
+13,311,White,Rep,Stan Gunter,Absentee by Mail Votes,493
+13,311,White,Rep,Stan Gunter,Advanced Voting Votes,1422
+13,311,White,Rep,Stan Gunter,Election Day Votes,872
+13,311,White,Rep,Stan Gunter,Provisional Votes,2
+13,311,White,Rep,Stan Gunter,TOTAL VOTES,2789

@@ -1,0 +1,61 @@
+StateFIPS,CountyFIPS,County,Party,Candidate,Method,Votes
+13,35,Butts,Ind,Joe Reed,Absentee by Mail Votes,64
+13,35,Butts,Ind,Joe Reed,Advanced Voting Votes,159
+13,35,Butts,Ind,Joe Reed,Election Day Votes,27
+13,35,Butts,Ind,Joe Reed,Provisional Votes,0
+13,35,Butts,Ind,Joe Reed,TOTAL VOTES,250
+13,35,Butts,Dem,Sharonda Bell,Absentee by Mail Votes,553
+13,35,Butts,Dem,Sharonda Bell,Advanced Voting Votes,1161
+13,35,Butts,Dem,Sharonda Bell,Election Day Votes,232
+13,35,Butts,Dem,Sharonda Bell,Provisional Votes,1
+13,35,Butts,Dem,Sharonda Bell,TOTAL VOTES,1947
+13,35,Butts,I) (Rep,Susan Holmes,Absentee by Mail Votes,559
+13,35,Butts,I) (Rep,Susan Holmes,Advanced Voting Votes,2757
+13,35,Butts,I) (Rep,Susan Holmes,Election Day Votes,353
+13,35,Butts,I) (Rep,Susan Holmes,Provisional Votes,2
+13,35,Butts,I) (Rep,Susan Holmes,TOTAL VOTES,3671
+13,159,Jasper,Ind,Joe Reed,Absentee by Mail Votes,71
+13,159,Jasper,Ind,Joe Reed,Advanced Voting Votes,143
+13,159,Jasper,Ind,Joe Reed,Election Day Votes,65
+13,159,Jasper,Ind,Joe Reed,Provisional Votes,1
+13,159,Jasper,Ind,Joe Reed,TOTAL VOTES,280
+13,159,Jasper,Dem,Sharonda Bell,Absentee by Mail Votes,535
+13,159,Jasper,Dem,Sharonda Bell,Advanced Voting Votes,599
+13,159,Jasper,Dem,Sharonda Bell,Election Day Votes,255
+13,159,Jasper,Dem,Sharonda Bell,Provisional Votes,1
+13,159,Jasper,Dem,Sharonda Bell,TOTAL VOTES,1390
+13,159,Jasper,I) (Rep,Susan Holmes,Absentee by Mail Votes,872
+13,159,Jasper,I) (Rep,Susan Holmes,Advanced Voting Votes,3462
+13,159,Jasper,I) (Rep,Susan Holmes,Election Day Votes,1512
+13,159,Jasper,I) (Rep,Susan Holmes,Provisional Votes,12
+13,159,Jasper,I) (Rep,Susan Holmes,TOTAL VOTES,5858
+13,169,Jones,Ind,Joe Reed,Absentee by Mail Votes,120
+13,169,Jones,Ind,Joe Reed,Advanced Voting Votes,178
+13,169,Jones,Ind,Joe Reed,Election Day Votes,104
+13,169,Jones,Ind,Joe Reed,Provisional Votes,0
+13,169,Jones,Ind,Joe Reed,TOTAL VOTES,402
+13,169,Jones,Dem,Sharonda Bell,Absentee by Mail Votes,1145
+13,169,Jones,Dem,Sharonda Bell,Advanced Voting Votes,1665
+13,169,Jones,Dem,Sharonda Bell,Election Day Votes,556
+13,169,Jones,Dem,Sharonda Bell,Provisional Votes,0
+13,169,Jones,Dem,Sharonda Bell,TOTAL VOTES,3366
+13,169,Jones,I) (Rep,Susan Holmes,Absentee by Mail Votes,1054
+13,169,Jones,I) (Rep,Susan Holmes,Advanced Voting Votes,4382
+13,169,Jones,I) (Rep,Susan Holmes,Election Day Votes,2034
+13,169,Jones,I) (Rep,Susan Holmes,Provisional Votes,3
+13,169,Jones,I) (Rep,Susan Holmes,TOTAL VOTES,7473
+13,207,Monroe,Ind,Joe Reed,Absentee by Mail Votes,43
+13,207,Monroe,Ind,Joe Reed,Advanced Voting Votes,98
+13,207,Monroe,Ind,Joe Reed,Election Day Votes,56
+13,207,Monroe,Ind,Joe Reed,Provisional Votes,0
+13,207,Monroe,Ind,Joe Reed,TOTAL VOTES,197
+13,207,Monroe,Dem,Sharonda Bell,Absentee by Mail Votes,110
+13,207,Monroe,Dem,Sharonda Bell,Advanced Voting Votes,222
+13,207,Monroe,Dem,Sharonda Bell,Election Day Votes,117
+13,207,Monroe,Dem,Sharonda Bell,Provisional Votes,0
+13,207,Monroe,Dem,Sharonda Bell,TOTAL VOTES,449
+13,207,Monroe,I) (Rep,Susan Holmes,Absentee by Mail Votes,182
+13,207,Monroe,I) (Rep,Susan Holmes,Advanced Voting Votes,1060
+13,207,Monroe,I) (Rep,Susan Holmes,Election Day Votes,719
+13,207,Monroe,I) (Rep,Susan Holmes,Provisional Votes,2
+13,207,Monroe,I) (Rep,Susan Holmes,TOTAL VOTES,1963

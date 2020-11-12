@@ -1,0 +1,21 @@
+StateFIPS,CountyFIPS,County,Party,Candidate,Method,Votes
+13,45,Carroll,Dem,Pat Rhudy,Absentee by Mail Votes,1183
+13,45,Carroll,Dem,Pat Rhudy,Advanced Voting Votes,2622
+13,45,Carroll,Dem,Pat Rhudy,Election Day Votes,779
+13,45,Carroll,Dem,Pat Rhudy,Provisional Votes,0
+13,45,Carroll,Dem,Pat Rhudy,TOTAL VOTES,4584
+13,45,Carroll,Rep,Tyler Paul Smith,Absentee by Mail Votes,1062
+13,45,Carroll,Rep,Tyler Paul Smith,Advanced Voting Votes,4796
+13,45,Carroll,Rep,Tyler Paul Smith,Election Day Votes,2169
+13,45,Carroll,Rep,Tyler Paul Smith,Provisional Votes,3
+13,45,Carroll,Rep,Tyler Paul Smith,TOTAL VOTES,8030
+13,143,Haralson,Dem,Pat Rhudy,Absentee by Mail Votes,524
+13,143,Haralson,Dem,Pat Rhudy,Advanced Voting Votes,594
+13,143,Haralson,Dem,Pat Rhudy,Election Day Votes,300
+13,143,Haralson,Dem,Pat Rhudy,Provisional Votes,0
+13,143,Haralson,Dem,Pat Rhudy,TOTAL VOTES,1418
+13,143,Haralson,Rep,Tyler Paul Smith,Absentee by Mail Votes,1535
+13,143,Haralson,Rep,Tyler Paul Smith,Advanced Voting Votes,5299
+13,143,Haralson,Rep,Tyler Paul Smith,Election Day Votes,3300
+13,143,Haralson,Rep,Tyler Paul Smith,Provisional Votes,4
+13,143,Haralson,Rep,Tyler Paul Smith,TOTAL VOTES,10138

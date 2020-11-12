@@ -1,0 +1,51 @@
+StateFIPS,CountyFIPS,County,Party,Candidate,Method,Votes
+13,73,Columbia,Dem,Kerry Dornell Hamm,Absentee by Mail Votes,25
+13,73,Columbia,Dem,Kerry Dornell Hamm,Advanced Voting Votes,30
+13,73,Columbia,Dem,Kerry Dornell Hamm,Election Day Votes,28
+13,73,Columbia,Dem,Kerry Dornell Hamm,Provisional Votes,0
+13,73,Columbia,Dem,Kerry Dornell Hamm,TOTAL VOTES,83
+13,73,Columbia,Rep,Rob Leverett,Absentee by Mail Votes,70
+13,73,Columbia,Rep,Rob Leverett,Advanced Voting Votes,305
+13,73,Columbia,Rep,Rob Leverett,Election Day Votes,358
+13,73,Columbia,Rep,Rob Leverett,Provisional Votes,1
+13,73,Columbia,Rep,Rob Leverett,TOTAL VOTES,734
+13,105,Elbert,Dem,Kerry Dornell Hamm,Absentee by Mail Votes,939
+13,105,Elbert,Dem,Kerry Dornell Hamm,Advanced Voting Votes,1088
+13,105,Elbert,Dem,Kerry Dornell Hamm,Election Day Votes,502
+13,105,Elbert,Dem,Kerry Dornell Hamm,Provisional Votes,0
+13,105,Elbert,Dem,Kerry Dornell Hamm,TOTAL VOTES,2529
+13,105,Elbert,Rep,Rob Leverett,Absentee by Mail Votes,1107
+13,105,Elbert,Rep,Rob Leverett,Advanced Voting Votes,3537
+13,105,Elbert,Rep,Rob Leverett,Election Day Votes,1843
+13,105,Elbert,Rep,Rob Leverett,Provisional Votes,0
+13,105,Elbert,Rep,Rob Leverett,TOTAL VOTES,6487
+13,181,Lincoln,Dem,Kerry Dornell Hamm,Absentee by Mail Votes,594
+13,181,Lincoln,Dem,Kerry Dornell Hamm,Advanced Voting Votes,488
+13,181,Lincoln,Dem,Kerry Dornell Hamm,Election Day Votes,239
+13,181,Lincoln,Dem,Kerry Dornell Hamm,Provisional Votes,0
+13,181,Lincoln,Dem,Kerry Dornell Hamm,TOTAL VOTES,1321
+13,181,Lincoln,Rep,Rob Leverett,Absentee by Mail Votes,450
+13,181,Lincoln,Rep,Rob Leverett,Advanced Voting Votes,1843
+13,181,Lincoln,Rep,Rob Leverett,Election Day Votes,906
+13,181,Lincoln,Rep,Rob Leverett,Provisional Votes,0
+13,181,Lincoln,Rep,Rob Leverett,TOTAL VOTES,3199
+13,195,Madison,Dem,Kerry Dornell Hamm,Absentee by Mail Votes,921
+13,195,Madison,Dem,Kerry Dornell Hamm,Advanced Voting Votes,1201
+13,195,Madison,Dem,Kerry Dornell Hamm,Election Day Votes,608
+13,195,Madison,Dem,Kerry Dornell Hamm,Provisional Votes,1
+13,195,Madison,Dem,Kerry Dornell Hamm,TOTAL VOTES,2731
+13,195,Madison,Rep,Rob Leverett,Absentee by Mail Votes,1330
+13,195,Madison,Rep,Rob Leverett,Advanced Voting Votes,4573
+13,195,Madison,Rep,Rob Leverett,Election Day Votes,2396
+13,195,Madison,Rep,Rob Leverett,Provisional Votes,2
+13,195,Madison,Rep,Rob Leverett,TOTAL VOTES,8301
+13,317,Wilkes,Dem,Kerry Dornell Hamm,Absentee by Mail Votes,128
+13,317,Wilkes,Dem,Kerry Dornell Hamm,Advanced Voting Votes,122
+13,317,Wilkes,Dem,Kerry Dornell Hamm,Election Day Votes,65
+13,317,Wilkes,Dem,Kerry Dornell Hamm,Provisional Votes,0
+13,317,Wilkes,Dem,Kerry Dornell Hamm,TOTAL VOTES,315
+13,317,Wilkes,Rep,Rob Leverett,Absentee by Mail Votes,199
+13,317,Wilkes,Rep,Rob Leverett,Advanced Voting Votes,615
+13,317,Wilkes,Rep,Rob Leverett,Election Day Votes,229
+13,317,Wilkes,Rep,Rob Leverett,Provisional Votes,1
+13,317,Wilkes,Rep,Rob Leverett,TOTAL VOTES,1044

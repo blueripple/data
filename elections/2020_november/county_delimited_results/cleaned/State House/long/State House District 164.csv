@@ -1,0 +1,31 @@
+StateFIPS,CountyFIPS,County,Party,Candidate,Method,Votes
+13,29,Bryan,Dem,Marcus Thompson,Absentee by Mail Votes,1037
+13,29,Bryan,Dem,Marcus Thompson,Advanced Voting Votes,1816
+13,29,Bryan,Dem,Marcus Thompson,Election Day Votes,421
+13,29,Bryan,Dem,Marcus Thompson,Provisional Votes,3
+13,29,Bryan,Dem,Marcus Thompson,TOTAL VOTES,3277
+13,29,Bryan,I) (Rep,Ron Stephens,Absentee by Mail Votes,699
+13,29,Bryan,I) (Rep,Ron Stephens,Advanced Voting Votes,3951
+13,29,Bryan,I) (Rep,Ron Stephens,Election Day Votes,946
+13,29,Bryan,I) (Rep,Ron Stephens,Provisional Votes,2
+13,29,Bryan,I) (Rep,Ron Stephens,TOTAL VOTES,5598
+13,51,Chatham,Dem,Marcus Thompson,Absentee by Mail Votes,3212
+13,51,Chatham,Dem,Marcus Thompson,Advanced Voting Votes,4104
+13,51,Chatham,Dem,Marcus Thompson,Election Day Votes,1611
+13,51,Chatham,Dem,Marcus Thompson,Provisional Votes,18
+13,51,Chatham,Dem,Marcus Thompson,TOTAL VOTES,8945
+13,51,Chatham,I) (Rep,Ron Stephens,Absentee by Mail Votes,1769
+13,51,Chatham,I) (Rep,Ron Stephens,Advanced Voting Votes,4041
+13,51,Chatham,I) (Rep,Ron Stephens,Election Day Votes,2201
+13,51,Chatham,I) (Rep,Ron Stephens,Provisional Votes,18
+13,51,Chatham,I) (Rep,Ron Stephens,TOTAL VOTES,8029
+13,179,Liberty,Dem,Marcus Thompson,Absentee by Mail Votes,99
+13,179,Liberty,Dem,Marcus Thompson,Advanced Voting Votes,138
+13,179,Liberty,Dem,Marcus Thompson,Election Day Votes,72
+13,179,Liberty,Dem,Marcus Thompson,Provisional Votes,0
+13,179,Liberty,Dem,Marcus Thompson,TOTAL VOTES,309
+13,179,Liberty,I) (Rep,Ron Stephens,Absentee by Mail Votes,41
+13,179,Liberty,I) (Rep,Ron Stephens,Advanced Voting Votes,97
+13,179,Liberty,I) (Rep,Ron Stephens,Election Day Votes,78
+13,179,Liberty,I) (Rep,Ron Stephens,Provisional Votes,0
+13,179,Liberty,I) (Rep,Ron Stephens,TOTAL VOTES,216

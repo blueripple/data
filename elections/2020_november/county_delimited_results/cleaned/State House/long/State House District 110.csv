@@ -1,0 +1,31 @@
+StateFIPS,CountyFIPS,County,Party,Candidate,Method,Votes
+13,35,Butts,Rep,Clint Crowe,Absentee by Mail Votes,597
+13,35,Butts,Rep,Clint Crowe,Advanced Voting Votes,3582
+13,35,Butts,Rep,Clint Crowe,Election Day Votes,455
+13,35,Butts,Rep,Clint Crowe,Provisional Votes,0
+13,35,Butts,Rep,Clint Crowe,TOTAL VOTES,4634
+13,35,Butts,Dem,Ebony Carter,Absentee by Mail Votes,301
+13,35,Butts,Dem,Ebony Carter,Advanced Voting Votes,604
+13,35,Butts,Dem,Ebony Carter,Election Day Votes,120
+13,35,Butts,Dem,Ebony Carter,Provisional Votes,0
+13,35,Butts,Dem,Ebony Carter,TOTAL VOTES,1025
+13,151,Henry,Rep,Clint Crowe,Absentee by Mail Votes,1159
+13,151,Henry,Rep,Clint Crowe,Advanced Voting Votes,4984
+13,151,Henry,Rep,Clint Crowe,Election Day Votes,1697
+13,151,Henry,Rep,Clint Crowe,Provisional Votes,2
+13,151,Henry,Rep,Clint Crowe,TOTAL VOTES,7842
+13,151,Henry,Dem,Ebony Carter,Absentee by Mail Votes,2290
+13,151,Henry,Dem,Ebony Carter,Advanced Voting Votes,4260
+13,151,Henry,Dem,Ebony Carter,Election Day Votes,1211
+13,151,Henry,Dem,Ebony Carter,Provisional Votes,12
+13,151,Henry,Dem,Ebony Carter,TOTAL VOTES,7773
+13,217,Newton,Rep,Clint Crowe,Absentee by Mail Votes,610
+13,217,Newton,Rep,Clint Crowe,Advanced Voting Votes,1280
+13,217,Newton,Rep,Clint Crowe,Election Day Votes,1359
+13,217,Newton,Rep,Clint Crowe,Provisional Votes,3
+13,217,Newton,Rep,Clint Crowe,TOTAL VOTES,3252
+13,217,Newton,Dem,Ebony Carter,Absentee by Mail Votes,1248
+13,217,Newton,Dem,Ebony Carter,Advanced Voting Votes,1565
+13,217,Newton,Dem,Ebony Carter,Election Day Votes,845
+13,217,Newton,Dem,Ebony Carter,Provisional Votes,2
+13,217,Newton,Dem,Ebony Carter,TOTAL VOTES,3660
